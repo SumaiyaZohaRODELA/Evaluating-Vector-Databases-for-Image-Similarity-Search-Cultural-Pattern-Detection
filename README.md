@@ -1,2 +1,2 @@
 # Evaluating-Vector-Databases-for-Image-Similarity-Search-Cultural-Pattern-Detection
-A comparative study of vec tor databases for image similarity search for cultural pattern  matching in traditional dresses. 
+A comparative study of vec tor databases for image similarity search for cultural pattern  matching in traditional dresses.  The effectiveness of three models, namely FAISS, CLIP, and ANNOY, is compared with the objective of identifying their efficiency in retrieving images that have a similar look to a database of traditional dress patterns in Bangladesh, India, Nepal, and Pakistan.
